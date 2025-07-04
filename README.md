@@ -21,8 +21,6 @@ student-module/
 ├── backend/ # Node.js + Express backend
 └── README.md # Project guide
 
-yaml
-Copy code
 
 ---
 
